@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemanth Kumar LG</h1>
 <h3 align="center">A Passionate Frontend Developer & UI/UX Designer</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 I’m currently working on **my personal portfolio website**
 
 - 🌱 I’m learning **React, UX/UI Design & Web Development & Animation**
