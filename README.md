@@ -22,9 +22,11 @@
 
 ### 🛠️ Languages & Tools:
 
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,photoshop,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,photoshop,vscode,github,python,git" />
 </p>
+
 
 ---
 
