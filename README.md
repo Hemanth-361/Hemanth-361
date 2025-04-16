@@ -7,13 +7,13 @@
 
 - 🌱 I’m learning **React, UX/UI Design & Web Animation**
 
-- 👨‍💻 All of my projects are available at [PixelFusion Portfolio](#) <!-- Add your portfolio link here -->
+- 👨‍💻 All of my projects are available at **[PixelFusion Portfolio](#)** <!-- You can add your portfolio link here -->
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Figma, Photoshop**
 
-- 📫 How to reach me: **your-email@example.com**
+- 📫 Reach me at: **hemanthkumar361007@gmail.com**
 
-- 📄 Know about my experiences: [Resume/LinkedIn](#)
+- 📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/hemanth-kumar-lg-bb9b83342/)
 
 ---
 
@@ -30,4 +30,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HemanthKumarLG&show_icons=true&theme=radical" alt="hemanth-github-stats" />
 </p>
-
