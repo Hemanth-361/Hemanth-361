@@ -23,14 +23,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HemanthKumarLG&show_icons=true&theme=radical" alt="hemanth-github-stats" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pixelfusion.myportfolio.com-000?style=for-the-badge&logo=Adobe&logoColor=white)](https://pixelfusion.myportfolio.com)
@@ -42,4 +34,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Hemanth--361-181717?style=for-the-badge&logo=github)](https://github.com/Hemanth-361)
 <br>
 [![Behance](https://img.shields.io/badge/Behance-hemanthkumarlg-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hemanthkumarlg)
-<br>
+<be>
+
+---
+
+### 📈 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HemanthKumarLG&show_icons=true&theme=radical" alt="hemanth-github-stats" />
+</p>
+
+---
