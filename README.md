@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my personal portfolio website**
 
-- 🌱 I’m learning **React, UX/UI Design & Web Animation**
+- 🌱 I’m learning **React, UX/UI Design & Web Development & Animation**
 
 - 👨‍💻 All of my projects are available at **[PixelFusion Portfolio](#)** <!-- Add your portfolio link here -->
 
