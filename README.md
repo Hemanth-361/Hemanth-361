@@ -11,7 +11,7 @@
 - 📫 Reach me at: **hemanthkumar361007@gmail.com**
 - 📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/hemanth-kumar-lg-bb9b83342/)
 
-[![Resume PDF](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader)](Hemanth_resume (1).pdf)
+[![Resume PDF](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader)](Hemanth_resume(1).pdf)
 
 ---
 
